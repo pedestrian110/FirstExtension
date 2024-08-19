@@ -1,0 +1,21 @@
+#codeforceApi{
+    text-align: center;
+    color: aqua;
+}
+#userWord {
+    text-align: center;
+}
+#submitButton {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: black;
+}
+.myDiv {
+    border-radius: 60%;
+    border-width: 1px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+}
