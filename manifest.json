@@ -1,0 +1,9 @@
+{
+    "name" : "Codeforce Ext",
+    "description":"This is a codeforce ext.",
+    "version":"1.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"index.html"
+    }
+}
